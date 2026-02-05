@@ -23,18 +23,14 @@
 #### 25GNM101P Physical and Mental Health Using 
 #### Yoga 0 0 2 0 
 
-
-
-
-
-
-
-
-
-
-
-
-
+##  Semester III
+#### 25ARC201S Architectural Design Studio - II 0 0 14 7 
+#### 25ARC203P Building Materials & Construction - II 1 0 4 3 
+#### 25ARC205J Site Planning & Surveying 2 0 2 3 
+#### 25ARS209P Computer Studio - II 1 0 4 3 
+#### Discipline Elective Course - III 2 0 2 3 
+#### 25LEM101T Constitution of India 1 0 0 0 
+#### Total Learning Credits 19 
 
 ## Semester-IV
 
@@ -44,18 +40,13 @@
 #### Discipline Elective Course - IV 2 0 4 4 
 #### Discipline Elective Course - V 2 0 4 4 
 
-
-
-
-
-
-
-
-
-
-
-
-
+## Semester V
+#### 25ARC301S Architectural Design Studio - IV 0 0 14 7 
+#### 25ARC303P Building Materials & Construction - III 1 0 4 3 
+#### 25ARC305T Building Structures - II 3 0 0 3 
+#### 25ARU307J Building Services - I 2 0 2 3 
+#### Discipline Elective Course - VI 2 0 4 4 
+#### Total Learning Credits 20 
 
 ## Semester-VI
 
